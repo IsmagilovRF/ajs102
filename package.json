@@ -1,5 +1,5 @@
 {
-  "name": "ajs101",
+  "name": "ajs102",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -41,16 +41,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IsmagilovRF/ajs101.git"
+    "url": "git+https://github.com/IsmagilovRF/ajs102.git"
   },
   "bugs": {
-    "url": "https://github.com/IsmagilovRF/ajs101/issues"
+    "url": "https://github.com/IsmagilovRF/ajs102/issues"
   },
-  "homepage": "https://github.com/IsmagilovRF/ajs101#readme",
+  "homepage": "https://github.com/IsmagilovRF/ajs102#readme",
   "husky": {
     "hooks": {
       "pre-commit": "npm test"
     }
   },
-  "description": "ajs101 ДЗ101"
+  "description": "ajs102 ДЗ102"
 }
